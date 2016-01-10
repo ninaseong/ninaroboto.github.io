@@ -1,0 +1,59 @@
+html {
+      height: 100%;
+      background-color: #99FF5E;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+       margin: 0 auto;
+       text-align: center;
+       color: #FF1923;
+       font-size: 18px;
+       background: url(http://cliparts.co/cliparts/yTk/AE9/yTkAE988c.png)
+    }
+​
+    header {
+        background-color: #5637E8;
+        padding:5px;
+        border: 10px solid #000000;
+        margin: ;
+        font-size: 30px;
+        display: block;
+        width: 790px;
+        text-align: center;
+    }
+    nav {
+        line-height:150%;
+        background-color: #6AFFE3;
+        width:200px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: left;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:#FFFD0D;
+        text-align:center;
+        padding:5px;
+        display: block;
+    }
